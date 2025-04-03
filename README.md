@@ -1,1 +1,1 @@
-# Project
+# Our Blog Platform's title is "BlogDive"
