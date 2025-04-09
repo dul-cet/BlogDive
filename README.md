@@ -1,4 +1,5 @@
 🌊 BlogDive
+
 BlogDive is a modern blogging platform that allows users to write, share, and discover blog posts. Our goal is to create a space where everyone can express their ideas, stories, and experiences freely.
 
 🚀 About the Project
