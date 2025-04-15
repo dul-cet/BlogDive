@@ -1,0 +1,10 @@
+<h2>Вход</h2>
+<form (ngSubmit)="login()">
+  <label>Email:</label>
+  <input [(ngModel)]="email" name="email" required />
+
+  <label>Пароль:</label>
+  <input [(ngModel)]="password" name="password" type="password" required />
+
+  <button type="submit">Войти</button>
+</form>

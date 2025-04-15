@@ -1,0 +1,12 @@
+<!-- create-post.component.html -->
+<h2>Создать пост</h2>
+
+<form (ngSubmit)="createPost()">
+  <label for="title">Заголовок:</label>
+  <input type="text" id="title" [(ngModel)]="postTitle" name="postTitle" required />
+
+  <label for="content">Контент:</label>
+  <textarea id="content" [(ngModel)]="postContent" name="postContent" required></textarea>
+
+  <button type="submit">Опубликовать</button>
+</form>
