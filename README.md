@@ -12,17 +12,15 @@ BlogDive is a web application where users can:
 
 🧑‍💻 Register and log in to their account
 
-💬 Comment on posts (optional feature) 
+💬 Comment on posts
 
 🛠️ Technologies Used
 This project is built using:
 
-Frontend: React / HTML / CSS / JavaScript
+Frontend: Angular / HTML / CSS / JavaScript
 
 Backend:  Django 
 
 Database: PostgreSQL 
 
-Authentication: 
-
-Deployment: 
+Authentication: With Token
